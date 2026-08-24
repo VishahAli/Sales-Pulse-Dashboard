@@ -95,29 +95,28 @@ Total Customers = DISTINCTCOUNT('Sales Pulse'[Customer ID])
 Average Order Value
 Average Order Value =DIVIDE(    [Total Sales], [Total Orders])
 
-**6. Dashboard Features**
-KPI Analysis
+6. Dashboard Features KPI Analysis
 The dashboard includes:
 Total Sales
 Total Orders
 Total Customers
 Average Order Value
 
-**Sales Trend Analysis**
+Sales Trend Analysis
 The dashboard provides time-based sales analysis to identify:
 Sales trends over time
 Sales fluctuations
 Changes in sales performance
 Product and Category Analysis
-**
-The dashboard analyzes:**
+
+The dashboard analyzes:
 Category-wise sales
 Product-level sales
 Top 10 products by sales
 Product performance comparison
 Regional Analysis
 
-**Sales performance is compared across:**
+Sales performance is compared across:
 Central
 East
 South
@@ -136,7 +135,7 @@ Second Class
 First Class
 Same Day
 
-**7. Interactive Features**
+7. Interactive Features
 The dashboard includes interactive slicers for:
 Year
 Region
@@ -146,7 +145,7 @@ Segment
 Users can apply filters to dynamically explore the sales data.
 The dashboard also supports cross-visual interactions, allowing selections in one visual to affect related visuals.
 
-**8. Dashboard Visualizations**
+8. Dashboard Visualizations
 KPI Cards
 Total Sales
 Total Orders
@@ -160,7 +159,7 @@ Sales by Customer Segment
 Sales by Ship Mode
 Top 10 Products by Sales
 
-**9. Business Insights**
+9. Business Insights
 The dashboard can be used to identify:
 Overall sales performance
 Sales trends over time
@@ -172,7 +171,7 @@ Shipping mode performance
 
 These insights can support business analysis and data-driven decision-making.
 
-**10. Project Outcome**
+10. Project Outcome
 This project demonstrates the practical application of Microsoft Power BI for business data analysis and visualization.
 Through this project, I developed hands-on experience in:
 Power BI Dashboard Development
@@ -186,7 +185,7 @@ Business Intelligence
 The final dashboard transforms raw sales data into an interactive reporting solution that makes sales performance easier to understand, compare, and analyze.
 
 
-**11. Project Structure**
+11. Project Structure
 Sales-Pulse-Dashboard/
 │
 ├── README.md
@@ -197,8 +196,7 @@ Sales-Pulse-Dashboard/
 
 This project is an independent Power BI dashboard implementation using the publicly available dataset.
 
-**12. Author
-Vishah Ali**
+12. Author Vishah Ali
 
 BBA Student | Business Analytics and Data Visualization Enthusiast
 Skills Demonstrated
