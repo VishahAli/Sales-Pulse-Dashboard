@@ -18,7 +18,7 @@ The dashboard helps users:
 - Understand customer segment performance
 - Compare sales across shipping modes
 - Identify top-performing products
-- Explore data using interactive filters
+- Explore data using interactive filters 
 
 ## 2. Technology Stack
 
